@@ -22,9 +22,12 @@ keep on SOLID principles
 ![Game](https://i.ibb.co/Zc8CrBR/opengame.jpg)
 ![Register](https://i.ibb.co/XjVLjY4/play.jpg)
 
+## Run the game
+ * Downlowd Jar file
+ * Open CMD , and enter to folder
+ * run - java -jar ATP_Part3.jar
+
 
 ## Developers
   * Tom Duany
   * Almog Sarafian
-  
-
