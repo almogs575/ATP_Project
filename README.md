@@ -18,8 +18,13 @@ keep on SOLID principles
 * Observer
 * Factory
 
-## Developers
+## Screen Shot
+![Game](https://i.ibb.co/Zc8CrBR/opengame.jpg)
+![Register](https://i.ibb.co/XjVLjY4/play.jpg)
 
-  * Almog Sarafian - 305069577
-  * Tom Duany - 206282477
+
+## Developers
+  * Tom Duany
+  * Almog Sarafian
+  
 
