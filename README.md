@@ -6,17 +6,20 @@ The app was built in Java accoriding to Model View ViewModel architecture and us
 keep on SOLID principles
 
 ##  Additional functionality
-The Maze Generating functuin is based on Prim algorithm
-if the user cant solve the maze, you can choose with which Algorithm the App solver will solve the maze.
-Solution Based on BFS
-Solution Based on DFS
-Solution Based on BestFirstSearch
+* The Maze Generating functuin is based on Prim algorithm.
+* if the user cant solve the maze, you can choose with which Algorithm the App solver will solve the maze.
+* Solution Based on BFS
+* Solution Based on DFS
+* Solution Based on BestFirstSearch
 
 ## Design Patterns Used:
-Bridge
-Startegy
-Observer
-Factory
+* Bridge
+* Startegy
+* Observer
+* Factory
 
+## Developers
 
+  * Almog Sarafian - 305069577
+  * Tom Duany - 206282477
 
